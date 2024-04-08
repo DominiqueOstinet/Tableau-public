@@ -10,4 +10,6 @@ all_athlete_games (Primary/Main file): Register of Olympics Saga/History
     22 years of Winter Olympics data (1924-2020 span)
 all_regions (Secondary file)
 
-The data was imported and cleaned in a Python Google Colab notebook. 
+The data was imported and cleaned in a Python Google Colab notebook then processed on Tableau public.
+
+![DB Tableau](https://github.com/DominiqueOstinet/Tableau-public/blob/main/DB%20Tableau.png)
